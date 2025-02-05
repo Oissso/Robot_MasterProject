@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map For x_nucleo_led61a1
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+LED6001	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+LED6001	KEYWORD2
+Init	KEYWORD2
+ReadID	KEYWORD2
+DeInit	KEYWORD2
+SetPwmDim	KEYWORD2
+SetAnaDim	KEYWORD2
+FaultStatus	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+LED6001_PDIM_FULL	LITERAL1
+LED6001_ADIM_FULL	LITERAL1
+NULL	LITERAL1

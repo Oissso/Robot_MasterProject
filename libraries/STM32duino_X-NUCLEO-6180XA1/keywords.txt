@@ -1,0 +1,20 @@
+#######################################
+# Syntax Coloring Map For X-NUCLEO-6180XA1
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+STMPE1600DigiOut	KEYWORD1
+VL6180X_X_NUCLEO_6180XA1	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+VL6180x_Off	KEYWORD2
+VL6180x_On	KEYWORD2
+begin	KEYWORD2
+end	KEYWORD2
+write	KEYWORD2

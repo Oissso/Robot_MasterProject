@@ -1,0 +1,20 @@
+#######################################
+# Syntax Coloring Map For X-NUCLEO-53L1A1
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+STMPE1600DigiOut	KEYWORD1
+VL53L1X_X_NUCLEO_53L1A1	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+VL53L1X_Off	KEYWORD2
+VL53L1X_On	KEYWORD2
+begin	KEYWORD2
+end	KEYWORD2
+write	KEYWORD2
